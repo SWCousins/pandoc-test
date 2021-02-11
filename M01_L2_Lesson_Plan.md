@@ -210,7 +210,7 @@ In this paired programming activity, you will create a new project in VS which d
 * Confirm it outputs "Hello World!"
 * In the Solution Explorer, find and open "Program.cs"
   * Interview your pair to figure out what code to add to your Main method in order to produce the following output about your pair:
-      ```cs
+      ```sh
       Hi Neighbor! 
       My name is PAIR NAME. 
       I'm from PAIR HOME TOWN. 
@@ -234,7 +234,7 @@ Learners create another project using the Console Project template. In this acti
 * Click "Create"
 * In the Solution Explorer, find and open "Program.cs"
 * Interview your pair to figure out what code to add to your Main method in order to produce the following output about your pair:
-  ```cs
+  ```sh
     Hi Neighbor! 
     What is your name? John
     What is your home town? NYC
